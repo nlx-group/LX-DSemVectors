@@ -1,4 +1,10 @@
-# Portuguese word embeddings
+# LX-DSemVectors
+
+## Portuguese word embeddings
+
+**Article**
+
+[LX-DSemVectors: Distributional Semantics Models for Portuguese](http://www.di.fc.ul.pt/~ahb/pubs/2016RodriguesBrancoNealeSilva.pdf)
 
 **Models**
 
