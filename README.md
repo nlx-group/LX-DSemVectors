@@ -4,7 +4,7 @@
 
 **Article**
 
-[LX-DSemVectors: Distributional Semantics Models for Portuguese](http://www.di.fc.ul.pt/~ahb/pubs/2016RodriguesBrancoNealeSilva.pdf)
+Rodrigues, João, António Branco, Steven Neale and João Silva, 2016, ["LX-DSemVectors: Distributional Semantics Models for the Portuguese Language"](http://www.di.fc.ul.pt/~ahb/pubs/2016RodriguesBrancoNealeSilva.pdf), Lecture Notes in Artificial Intelligence, 9727, Berlin, Springer, pp.259-270.
 
 **Models**
 
