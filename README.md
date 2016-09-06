@@ -10,8 +10,8 @@ Rodrigues, João, António Branco, Steven Neale and João Silva, 2016, ["LX-DSem
 
 Due to the large size of the models, it's necessary to download them from an outside resource:
 
-* [Vanilla model](http://nlx-server.di.fc.ul.pt/~jrodrigues/share/pt_word_embeddings/vanilla.tar.gz)
-* [All models](http://nlx-server.di.fc.ul.pt/~jrodrigues/share/pt_word_embeddings/)
+* [Vanilla model](http://lxcenter.di.fc.ul.pt/datasets/models/vanilla.tar.gz)
+* [All models](http://lxcenter.di.fc.ul.pt/datasets/models/)
 
 
 **To evaluate a model:**
