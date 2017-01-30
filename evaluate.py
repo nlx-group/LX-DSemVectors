@@ -23,7 +23,7 @@ if __name__ == "__main__":
                         help="model")
     parser.add_argument("-t",
                         nargs="?",
-                        default="./testset/LX-4WAnalogies.txt",
+                        default="./testsets/LX-4WAnalogies.txt",
                         help="testset")
     parser.add_argument("-r",
                         nargs="?",
