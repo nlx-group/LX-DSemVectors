@@ -12,6 +12,7 @@ Due to the large size of the models, it's necessary to download them from an out
 
 * [Vanilla model](http://lxcenter.di.fc.ul.pt/datasets/models/vanilla.tar.gz)
 * [All models](http://lxcenter.di.fc.ul.pt/datasets/models/)
+* [LX-DSemVectors 2.2b](http://lxcenter.di.fc.ul.pt/datasets/models/2.2b/)
 
 
 **To evaluate a model:**
